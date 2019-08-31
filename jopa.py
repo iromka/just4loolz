@@ -1,0 +1,9 @@
+print("HHHHHHH")
+hg
+hgd
+ghgh
+gh
+g
+hg
+hg
+h
